@@ -4,7 +4,7 @@
 //
 //  Created by kevint on 2017-10-23.
 //  Copyright © 2017 kevint. All rights reserved.
-//test push changes to github
+//test push second changes to github
 //
 enum operation {add, subtract, multiply, divide};
 
